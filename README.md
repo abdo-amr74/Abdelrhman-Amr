@@ -5,7 +5,7 @@
 I'm dedicated to learn coding, machine learning and datascience.
 
 * 🌍 I'm based in Cairo, Egypt
-* 🔗 See my portfolio at [LinkedIn](https://linkedin.com)
+* 🔗 See my portfolio at [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/abdelrhman-amr-9a8651326/))
 * ✉️ You can contact me at [abdelrhmanamr639@gmail.com](mailto:your@email.com)
 * 🚀 I’m currently learning Machine learning and Datascience.
 
