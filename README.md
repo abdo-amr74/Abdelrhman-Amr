@@ -13,7 +13,7 @@ I’m a Computer Science student dedicated to coding, machine learning and datas
 ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,git,linux,vscode,sklearn" />
 </p>
 
 ---
