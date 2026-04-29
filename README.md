@@ -1,6 +1,6 @@
 # Hi 👋 My name is Abdelrhman Amr
 
-## 💻 Software Engineer
+##  Software Engineer
 
 I’m a Computer Science student dedicated to coding, machine learning and datascience.
 
