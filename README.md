@@ -6,7 +6,7 @@ I’m a Computer Science student dedicated to coding, machine learning and datas
 
 * 🌍 I'm based in Cairo, Egypt
 * 🔗 See my profile on [LinkedIn](https://www.linkedin.com/in/abdelrhman-amr-9a8651326/)
-* 🚀 I’m currently learning machine learning and data handling.
+* 🚀 I’m currently learning machine learning and data science.
 
 ---
 
